@@ -1,0 +1,17 @@
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Infrastructure.deps.json
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Infrastructure.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Infrastructure.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Application.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Domain.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Application.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\bin\Debug\net8.0\Shopaholic.Domain.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopahol.E1220B5C.Up2Date
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\refint\Shopaholic.Infrastructure.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\ref\Shopaholic.Infrastructure.dll

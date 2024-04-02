@@ -1,0 +1,17 @@
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Persistence.deps.json
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Persistence.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Persistence.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Application.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Domain.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Application.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\bin\Debug\net8.0\Shopaholic.Domain.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopahol.4A58126F.Up2Date
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\refint\Shopaholic.Persistence.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\Shopaholic.Persistence.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Persistence\obj\Debug\net8.0\ref\Shopaholic.Persistence.dll

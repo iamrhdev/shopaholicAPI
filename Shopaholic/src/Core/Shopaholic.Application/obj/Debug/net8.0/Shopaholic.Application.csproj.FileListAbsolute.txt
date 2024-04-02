@@ -1,0 +1,15 @@
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\bin\Debug\net8.0\Shopaholic.Application.deps.json
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\bin\Debug\net8.0\Shopaholic.Application.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\bin\Debug\net8.0\Shopaholic.Application.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\bin\Debug\net8.0\Shopaholic.Domain.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\bin\Debug\net8.0\Shopaholic.Domain.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.csproj.AssemblyReference.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.AssemblyInfoInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.AssemblyInfo.cs
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopahol.359A7640.Up2Date
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\refint\Shopaholic.Application.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\Shopaholic.Application.pdb
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Application\obj\Debug\net8.0\ref\Shopaholic.Application.dll

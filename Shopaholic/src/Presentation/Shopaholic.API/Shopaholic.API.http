@@ -1,0 +1,6 @@
+@Shopaholic.API_HostAddress = http://localhost:5197
+
+GET {{Shopaholic.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
