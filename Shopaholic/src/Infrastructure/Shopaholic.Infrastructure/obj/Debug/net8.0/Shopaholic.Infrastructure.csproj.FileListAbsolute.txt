@@ -15,3 +15,4 @@ C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\refint\Shopaholic.Infrastructure.dll
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.pdb
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\ref\Shopaholic.Infrastructure.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Infrastructure\Shopaholic.Infrastructure\obj\Debug\net8.0\Shopaholic.Infrastructure.sourcelink.json

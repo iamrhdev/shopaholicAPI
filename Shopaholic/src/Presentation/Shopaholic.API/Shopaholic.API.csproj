@@ -19,10 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Infrastructure\Shopaholic.Infrastructure\Shopaholic.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Infrastructure\Shopaholic.Persistence\Shopaholic.Persistence.csproj" />
   </ItemGroup>

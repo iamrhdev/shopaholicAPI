@@ -10,3 +10,4 @@ C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Domain\ob
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Domain\obj\Debug\net8.0\refint\Shopaholic.Domain.dll
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Domain\obj\Debug\net8.0\Shopaholic.Domain.pdb
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Domain\obj\Debug\net8.0\ref\Shopaholic.Domain.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Core\Shopaholic.Domain\obj\Debug\net8.0\Shopaholic.Domain.sourcelink.json

@@ -1,6 +1,11 @@
-﻿namespace Shopaholic.Application.Abstraction.Services
+﻿using Shopaholic.Application.DTOs.Accounts;
+using Shopaholic.Application.DTOs.Response;
+
+namespace Shopaholic.Application.Abstraction.Services
 {
-    internal interface IAccountsService
+    public interface IAccountsService
     {
+        Task AccountRegister(UserRegisterDto userRegisterDto, CancellationToken cancellationToken);
+        Task<TokenResponseDto> Login(UserSignInDto userSignInDto,CancellationToken cancellationToken);
     }
 }

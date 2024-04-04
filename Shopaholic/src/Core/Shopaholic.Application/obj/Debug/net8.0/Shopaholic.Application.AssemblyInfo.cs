@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shopaholic.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ff03cb74be5e9185f844f1a354c6cc46127379")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shopaholic.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shopaholic.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

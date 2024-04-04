@@ -1,8 +1,6 @@
-﻿using System.Threading.Tasks;
-
-namespace Shopaholic.Application.Abstraction.Caching
+﻿namespace Shopaholic.Application.Abstraction.Caching
 {
-    internal interface ICacheService
+    public interface ICacheService
     {
         Task<T?> GetAsync<T>(string key, CancellationToken cancellationToken = default)
             where T : class;

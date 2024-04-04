@@ -152,3 +152,10 @@ C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.A
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\obj\Debug\net8.0\Shopaholic.API.pdb
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\obj\Debug\net8.0\Shopaholic.API.genruntimeconfig.cache
 C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\obj\Debug\net8.0\ref\Shopaholic.API.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Rhabi\OneDrive\Desktop\EcomAPI\Shopaholic\src\Presentation\Shopaholic.API\obj\Debug\net8.0\Shopaholic.API.sourcelink.json

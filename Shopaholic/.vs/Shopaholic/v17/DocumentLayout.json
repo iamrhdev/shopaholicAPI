@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Rhabi\\OneDrive\\Desktop\\EcomAPI\\Shopaholic\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6B9C890B-D8CB-476A-9EE2-D926F39C0FDD}|src\\Infrastructure\\Shopaholic.Persistence\\Shopaholic.Persistence.csproj|c:\\users\\rhabi\\onedrive\\desktop\\ecomapi\\shopaholic\\src\\infrastructure\\shopaholic.persistence\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B9C890B-D8CB-476A-9EE2-D926F39C0FDD}|src\\Infrastructure\\Shopaholic.Persistence\\Shopaholic.Persistence.csproj|solutionrelative:src\\infrastructure\\shopaholic.persistence\\extensions\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAFEB461-EB82-4807-A9A3-34101D619C1E}|src\\Presentation\\Shopaholic.API\\Shopaholic.API.csproj|c:\\users\\rhabi\\onedrive\\desktop\\ecomapi\\shopaholic\\src\\presentation\\shopaholic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFEB461-EB82-4807-A9A3-34101D619C1E}|src\\Presentation\\Shopaholic.API\\Shopaholic.API.csproj|solutionrelative:src\\presentation\\shopaholic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Rhabi\\OneDrive\\Desktop\\EcomAPI\\Shopaholic\\src\\Infrastructure\\Shopaholic.Persistence\\Extensions\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Shopaholic.Persistence\\Extensions\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Rhabi\\OneDrive\\Desktop\\EcomAPI\\Shopaholic\\src\\Infrastructure\\Shopaholic.Persistence\\Extensions\\ServiceRegistration.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Shopaholic.Persistence\\Extensions\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:29:19.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rhabi\\OneDrive\\Desktop\\EcomAPI\\Shopaholic\\src\\Presentation\\Shopaholic.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Presentation\\Shopaholic.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Rhabi\\OneDrive\\Desktop\\EcomAPI\\Shopaholic\\src\\Presentation\\Shopaholic.API\\Program.cs",
-              "RelativeToolTip": "src\\Presentation\\Shopaholic.API\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T19:28:52.034Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

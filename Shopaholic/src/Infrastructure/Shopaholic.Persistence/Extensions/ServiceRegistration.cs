@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using FluentValidation.AspNetCore;
+using FluentValidation;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -6,15 +8,39 @@ using Shopaholic.Application.Abstraction.Repositories;
 using Shopaholic.Domain.Identity;
 using Shopaholic.Persistence.Context;
 using Shopaholic.Persistence.Implementations.Repositories;
+using Shopaholic.Application.Validators.Accounts;
+using Shopaholic.Application.Abstraction.Caching;
+using Shopaholic.Persistence.Implementations.Caching;
+using Shopaholic.Application.Abstraction.Services;
+using Shopaholic.Persistence.Implementations.Services;
 
 namespace Shopaholic.Persistence.Extensions
 {
     public static class ServiceRegistration
     {
         public static void AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
-        {
+        {   // DbContext - DbContext Initialiser Registration
             services.AddDbContext<ShopaholicDbContext>(opts => opts.UseSqlServer(configuration.GetConnectionString("Default")));
             services.AddScoped<ShopaholicDbContextInitialiser>();
+
+            // Memory Caching Implemented
+            services.AddDistributedMemoryCache();
+
+            // Service Registration Scoped
+            services.AddScoped<IAccountsService, AccountsService>();
+
+            // Service Registration Singleton
+            services.AddSingleton<ICacheService, CacheService>();
+
+            // Registering JSON Serializer
+            services.AddControllers().AddNewtonsoftJson(options =>
+            options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+            );
+
+            // Fluent Validation Registration
+            services.AddFluentValidationAutoValidation();
+            services.AddFluentValidationClientsideAdapters();
+            services.AddValidatorsFromAssemblyContaining<UserRegisterDtoValidator>();
         }
         public static void AddIdentityServices(this IServiceCollection services)
         {

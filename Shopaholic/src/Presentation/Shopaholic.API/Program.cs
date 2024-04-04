@@ -1,3 +1,5 @@
+using Shopaholic.Application.CommandsQueries.Accounts.Commands;
+using Shopaholic.Infrastructure.Extensions;
 using Shopaholic.Persistence.Context;
 using Shopaholic.Persistence.Extensions;
 
@@ -7,8 +9,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
+builder.Services.AddMediatR(config => config.RegisterServicesFromAssemblyContaining(typeof(UserRegisterCommand)));
 builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddIdentityServices();
+builder.Services.AddInfrastructureService();
 builder.Services.AddWriteRepository();
 builder.Services.AddReadRepository();
 
